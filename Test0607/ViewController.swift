@@ -16,7 +16,7 @@ class ViewController: UIViewController {
 		
 		//aiueo
 		
-		// kakikukeko
+		// sashisuseso
 	}
 
 	override func didReceiveMemoryWarning() {
